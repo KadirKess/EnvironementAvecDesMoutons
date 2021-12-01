@@ -183,3 +183,5 @@ class Mouton :
 
 # On crée un mouton de test
 mouton = Mouton(5, 1, 2, 3, 5)
+
+a = 3
