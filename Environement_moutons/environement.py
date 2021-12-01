@@ -120,7 +120,7 @@ class Mouton :
         return str(self.__nom)+" vous dit bonjour !"
 
     def get_infos(self): # On n'utilise pas la fonction __repr__ pour obtenir un dictionnaire à la sortie
-        '''La fonction va nous servir à pouvoir récupérer les données du mouton
+        '''La fonction va nous servir à récupérer les données du mouton
         Prec : Un mouton (Mouton)
         Post : Un dictionnaire (dict) avec toutes ces informations
         '''
