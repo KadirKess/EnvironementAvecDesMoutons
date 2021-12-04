@@ -214,7 +214,7 @@ class Simulation :
         '''
         self.__nb_moutons = nb_moutons # Le nombre de moutons initaux
         self.__horloge = 0 # L'horloge initée à 0
-        self.__fin_du_monde = fin # L'heure (par rapport à l'horle créée auparavant) de fin du monde, et donc fin de la simulation
+        self.__fin_du_monde = fin # L'heure (pasr rapport à l'horle créée auparavant) de fin du monde, et donc fin de la simulation
         self.__moutons = []
         self.__resulats_herbe = []
         self.__resulats_moutons = []
