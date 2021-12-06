@@ -1,3 +1,4 @@
+# version 0.6
 # Import des librairies dont nous aurons besoin
 from random import randint # Cela va nous permettre d'intégrer l'aléatoire dont nous aurons besoin à plusieurs endroits
 import matplotlib # On aura besoin de cette librairie notamment pour tracer des graphes
@@ -5,7 +6,7 @@ import matplotlib # On aura besoin de cette librairie notamment pour tracer des 
 # On génère des noms pour les différents individus de l'écosystème 
 
 # On veut une liste de noms pour chaque groupe :
-noms_moutons = ["Marco Polo"] 
+noms_moutons = ["Mowton Isaac"] 
 noms_loups = ["Loup Le Grand"]
 noms_chasseurs = ["Chasseur Flowter"]
 # On crée une fonction qui ajoute la quantité de noms voulus aux listes :
