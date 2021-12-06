@@ -6,8 +6,8 @@ import matplotlib # On aura besoin de cette librairie notamment pour tracer des 
 
 # On veut une liste de noms pour chaque groupe :
 noms_moutons = ["Marco Polo"] 
-noms_loups = ["Lou Le Grand"]
-noms_chasseurs = ["Casseur Flowter"]
+noms_loups = ["Loup Le Grand"]
+noms_chasseurs = ["Chasseur Flowter"]
 # On crée une fonction qui ajoute la quantité de noms voulus aux listes :
 def noms(liste,nb):
     '''
